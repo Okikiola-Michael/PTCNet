@@ -13,7 +13,7 @@
 |--------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 |![](https://github.com/Okikiola-Michael/PTCNet/blob/main/images/predicted%20annotations.png) |![](https://github.com/Okikiola-Michael/PTCNet/blob/main/images/image%202.png)| 
 
-PTCNet model was trained using ArcGIS pro 3.4 and the .dlpk files can be found [here](https://drive.google.com/drive/u/2/folders/1fmKsfo78rBHs5JBXQokD8GEc1ZOvt78t).
+PTCNet model was trained using ArcGIS pro 3.4 and the .dlpk files can be found [here](https://drive.google.com/drive/u/2/folders/1fmKsfo78rBHs5JBXQokD8GEc1ZOvt78t). 
 
 The high-resolution RGB image used is [here](https://gis.pullman-wa.gov/portal/apps/mapviewer/index.html?layers=8149c19a386c42bd88d440af8dac195e) 
 
@@ -22,5 +22,7 @@ The training, testing and scenario annotation shapefiles are here in the [`hand 
 The detected tree crown shapefiles are in the [`predicted annotation`](https://github.com/Okikiola-Michael/PTCNet/tree/main/predicted_annotations) folder.
 
 The entire tree crowns including training/testing annotations, predicted annotations and other annotations are [here]().
+
+See [video](https://drive.google.com/drive/u/1/folders/1fmKsfo78rBHs5JBXQokD8GEc1ZOvt78t)
 
 If you find any of these resources useful in your work, cite our [publication]().
