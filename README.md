@@ -23,6 +23,6 @@ The detected tree crown shapefiles are in the [`predicted annotation`](https://g
 
 The entire tree crowns including training/testing annotations, predicted annotations and other annotations are [here]().
 
-See [video](https://drive.google.com/drive/u/1/folders/1fmKsfo78rBHs5JBXQokD8GEc1ZOvt78t)
+See [video](https://drive.google.com/file/d/1YZfqkv1KCCzesbo4IaLR5-h9urAqS54T/view?usp=drive_link)
 
 If you find any of these resources useful in your work, cite our [publication]().
