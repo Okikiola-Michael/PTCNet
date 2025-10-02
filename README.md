@@ -8,12 +8,15 @@
 
 [**PTCNet**]() is a deep-learning urban tree crown detector, developed on [__YOLOv3__](https://arxiv.org/abs/1804.02767) architecture with a Darknet-53 backbone. 
 
-`Model Training`
-`1. Model: YOLOv3 with a Darknet-53 backbone for 30 epochs.`
-`2. Batch: 8`
-`3. IOU: 0.5 (Overlap between the reference and detected tree crowns)
+```javascript
+Model Training
+1. Model: YOLOv3 with a Darknet-53 backbone for 30 epochs.
+2. Batch: 8
+3. IOU: 0.5 (Overlap between the reference and detected tree crowns)
 4. Non-maximum suppression: 0.1
-5. Confidence score: 0.1`
+5. Confidence score: 0.1
+
+```
 
 Based on the test dataset, the model had `>75% precision` and `62% recall` of ground-truth data. However, based on other [scenario](https://github.com/Okikiola-Michael/PTCNet/blob/main/scenarios.zip) test data, the performance was higher. It was developed for the city of [Pullman](https://en.wikipedia.org/wiki/Pullman,_Washington) located in the southeastern part of Washington. More information on the model can be found in our [publication](). The model will be continually updated to improve its generalization and localization, and the newer version will be uploaded.
 
