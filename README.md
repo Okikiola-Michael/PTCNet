@@ -18,7 +18,7 @@ Model Training
 
 ```
 
-Based on the test dataset, the model had `>75% precision` and `62% recall` of ground-truth data. However, based on other [scenario](https://github.com/Okikiola-Michael/PTCNet/blob/main/scenarios.zip) test data, the performance was higher. It was developed for the city of [Pullman](https://en.wikipedia.org/wiki/Pullman,_Washington) located in the southeastern part of Washington. More information on the model can be found in our [publication](). The model will be continually updated to improve its generalization and localization, and the newer version will be uploaded.
+Based on the test dataset, the model had `>75% precision` and `62% recall` of ground-truth data. However, based on other [scenario](https://github.com/Okikiola-Michael/PTCNet/blob/main/scenarios.zip) test data, the performance was higher. It was developed for the city of [Pullman](https://en.wikipedia.org/wiki/Pullman,_Washington) located in the southeastern part of Washington. More information on the model can be found in our [publication](https://doi.org/10.1016/j.rsase.2025.101818). The model will be continually updated to improve its generalization and localization, and the newer version will be uploaded.
 
 
 |                                                                                             |                                                                              |
@@ -37,4 +37,4 @@ The entire tree crown, including training/testing annotations, predicted annotat
 
 See the distribution of the tree crowns in the study area: [Video](https://drive.google.com/file/d/1YZfqkv1KCCzesbo4IaLR5-h9urAqS54T/view?usp=drive_link)
 
-If you find any of these resources useful in your work, cite our [publication]().
+If you find any of these resources useful in your work, cite our [publication](https://doi.org/10.1016/j.rsase.2025.101818).
